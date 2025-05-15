@@ -42,8 +42,8 @@
 | 08/05 | [compartilhamento de dados entre componentes com props/state](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-props) |
 | 10/05 | [compartilhamento de dados entre componentes com props/state](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-props) |
 | 12/05 | **atividade 03**<br />[compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-03-react-compartilhando-dados-entre-componentes) |
-| 15/05 | acessando API e uso do `useEffect` |
-| 19/05 | **atividade 04**<br />acessando API e uso do `useEffect` |
+| 15/05 | [acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios) |
+| 19/05 | **atividade 04**<br />[acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios) |
 | 22/05 | em breve... |
 | 26/05 | **atividade 05**<br /> |
 | 29/05 | em breve... |
