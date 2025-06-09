@@ -48,7 +48,5 @@
 | 26/05 | prática profissional |
 | 29/05 | [compartilhamento de dados entre componentes com `context`](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-context) |
 | 31/05 | **sábado/atividade 05**<br />[introdução a tailwind](https://github.com/infoweb-pos/2025-pos-05-react-tailwind) |
-| 02/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md) |
-| 05/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md) |
-| 09/06 | **data de entrega de todas as atividades do 1o bimestre**<br />em breve... |
+| 02/06<br />05/06<br />09/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md)<br />**data de entrega de todas as atividades do 1o bimestre** sexta-feira 13 |
 | 12/06 | **2o bimestre**<br />em breve... |
