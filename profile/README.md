@@ -49,4 +49,24 @@
 | 29/05 | [compartilhamento de dados entre componentes com `context`](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-context) |
 | 31/05 | **sábado/atividade 05**<br />[introdução a tailwind](https://github.com/infoweb-pos/2025-pos-05-react-tailwind) |
 | 02/06<br />05/06<br />09/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md)<br />**data de entrega de todas as atividades do 1o bimestre** sexta-feira 13 |
-| 12/06 | **2o bimestre**<br />em breve... |
+| 12/06 | **2o bimestre**<br />último dia para atividade 06 |
+| 16/06 | [react reducer](https://github.com/infoweb-pos/2025-pos-exemplo-react-reducer/) |
+| 21/06 | **sábado**<br />**atividade 01** em breve... |
+| 23/06 | em breve... |
+| 26/06 | em breve... |
+| 30/06 | em breve... |
+| 03/07 | em breve... |
+| 07/07 | em breve... |
+| 10/07 | em breve... |
+| 12/07 | **sábado**<br />**atividade 01** em breve... |
+| 14/07 | em breve... |
+| 17/07 | em breve... |
+| 21/07 | em breve... |
+| 24/07 | em breve... |
+| 28/07 | em breve... |
+| 31/07 | em breve... |
+| 04/08 | em breve... |
+| 07/08 | em breve... |
+| 09/08 | **sábado**<br />**atividade 01** em breve... |
+| 11/08 | em breve... |
+
