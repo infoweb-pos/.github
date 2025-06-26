@@ -51,9 +51,7 @@
 | 02/06<br />05/06<br />09/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md)<br />**data de entrega de todas as atividades do 1o bimestre** sexta-feira 13 |
 | 12/06 | **2o bimestre**<br />último dia para atividade 06 |
 | 16/06 | [react reducer](https://github.com/infoweb-pos/2025-pos-exemplo-react-reducer/) |
-| 21/06 | **sábado**<br />**atividade 01** em breve... |
-| 23/06 | em breve... |
-| 26/06 | em breve... |
+| 21/06<br />23/06<br />26/06 | **sábado**<br />**atividade 01**[React - Introdução a hook reducer](https://github.com/infoweb-pos/2025-2-pos-atividade-01-hook-reducer) |
 | 30/06 | em breve... |
 | 03/07 | em breve... |
 | 07/07 | em breve... |
