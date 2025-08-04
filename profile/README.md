@@ -56,15 +56,13 @@
 | 03/07 | em breve... |
 | 07/07 | em breve... |
 | 10/07 | em breve... |
-| 12/07 | **sábado**<br />**atividade 01** em breve... |
-| 14/07 | em breve... |
-| 17/07 | em breve... |
+| 12/07 | **sábado**<br />atividade |
+| 14/07<br />17/07 | OBT 2025 |
 | 21/07 | em breve... |
 | 24/07 | em breve... |
-| 28/07 | em breve... |
-| 31/07 | em breve... |
-| 04/08 | em breve... |
-| 07/08 | em breve... |
-| 09/08 | **sábado**<br />**atividade 01** em breve... |
-| 11/08 | em breve... |
+| 28/07 | [armazenamento de dados no navegador](https://github.com/infoweb-pos/react-dados_no_navegador) |
+| 31/07 | typescript |
+| 04/08<br />07/08 | [localStorage](https://github.com/infoweb-pos/react-dados_no_navegador-localStorage/) |
+| 09/08 | **sábado**<br />**atividade 02** em breve... |
+| 11/08 | [IndexedDB](https://github.com/infoweb-pos/react-dados_no_navegador-indexedDB/) |
 
