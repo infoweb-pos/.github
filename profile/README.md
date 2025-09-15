@@ -65,4 +65,7 @@
 | 04/08<br />07/08 | [localStorage](https://github.com/infoweb-pos/react-dados_no_navegador-localStorage/) |
 | 09/08 | **sábado**<br />**atividade 02** em breve... |
 | 11/08 | [IndexedDB](https://github.com/infoweb-pos/react-dados_no_navegador-indexedDB/) |
+| -- | Recesso |
+| 11/09 | Sem aula |
+| 15/09 | *Atividade* de [revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao) |
 
