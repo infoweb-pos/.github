@@ -68,5 +68,5 @@
 | -- | Recesso |
 | 11/09 | Sem aula |
 | 15/09<br />18/09 | **Atividade** de [revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao) |
-| 22/09<br />25/09 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api) |
+| 22/09<br />25/09 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api) |
 
