@@ -68,6 +68,7 @@
 | -- | Recesso |
 | 11/09 | Sem aula |
 | 15/09<br />18/09 | **Atividade** de [revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao) |
-| 22/09<br />25/09<br />29/09<br />02/10 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api)<br />:arrow_forward:[parte 1 - criar novo projeto](https://youtu.be/rnx33u6sPl0)<br />:arrow_forward:[parte 2 e 3 - adicionar rota e crud](https://youtu.be/BCYdxqQlPL0) |
-| 02/10 | API testes automatizados [notas de aula](https://github.com/infoweb-pos/api-nest-notas-02-testes/) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api)<br />lembre de _commits_ com título relativo a atividade |
+| 22/09<br />25/09<br />29/09<br />02/10 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api)<br />[:arrow_forward: parte 1 - criar novo projeto](https://youtu.be/rnx33u6sPl0)<br />[:arrow_forward: parte 2 e 3 - adicionar rota e crud](https://youtu.be/BCYdxqQlPL0) |
+| 02/10 | API testes automatizados [notas de aula](https://github.com/infoweb-pos/api-nest-notas-02-testes/)<br />continue a [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api) -lembre de _commits_ com título relativo a atividade<br />:arrow_forward: parte 4 - testes automatizados |
+| 06/10 | API Documetação com swagger [notas de aula](https://github.com/infoweb-pos/api-nest-notas-03-documentacao)<br />atividade<br />:arrow_forward:parte 5 - documentação |
 
