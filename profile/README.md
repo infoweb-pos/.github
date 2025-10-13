@@ -71,4 +71,4 @@
 | 22/09<br />25/09<br />29/09<br />02/10 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api)<br />[:arrow_forward: parte 1 - criar novo projeto](https://youtu.be/rnx33u6sPl0)<br />[:arrow_forward: parte 2 e 3 - adicionar rota e crud](https://youtu.be/BCYdxqQlPL0) |
 | 02/10 | API testes automatizados [notas de aula](https://github.com/infoweb-pos/api-nest-notas-02-testes/)<br />continue a [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api) -lembre de _commits_ com título relativo a atividade<br />:arrow_forward: parte 4 - testes automatizados |
 | 06/10 | API Documetação com swagger [notas de aula](https://github.com/infoweb-pos/api-nest-notas-03-documentacao)<br />[atividade](https://github.com/infoweb-pos/2025-3-atividades-03-api-swagger)<br />:arrow_forward:parte 5 - documentação |
-
+| 13/10<br />16/10 | API Autenticação [notas de aula](https://github.com/infoweb-pos/api-nest-notas-04-autenticacao/) e atividade<br />:arrow_forward: autenticação |
