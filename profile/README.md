@@ -7,6 +7,23 @@
 - **aulas**: segunda lab. 07 / sexta lab. 05
 
 
+## Atividades por bimestre
+- 1o bimestre
+  - A1 [React - Criando o primeiro projeto](https://github.com/infoweb-pos/2025-pos-01-react-criar-projeto/)
+  - A2 [React - Conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios/)
+  - A3 [React - Compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-03-react-compartilhando-dados-entre-componentes/)
+  - A4 [React - Acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios/)
+  - A5 [React + Tailwind - Spotify](https://github.com/infoweb-pos/2025-pos-05-react-tailwind/)
+  - A6 [React - usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/)
+- 2o bimestre
+  - A1 [React - Introdução a hook reducer](https://github.com/infoweb-pos/2025-2-pos-atividade-01-hook-reducer)
+- 3o bimestre
+  - A1 [React - revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao)
+  - A2 [API/Nest - Introdução](https://github.com/infoweb-pos/2025-3-atividades-02-api)
+  - A3 [API/Nest - Automatizando testes](https://github.com/infoweb-pos/2025-3-atividades-02-api)
+  - A4 [API/Nest - Documentando com código](https://github.com/infoweb-pos/2025-3-atividades-03-api-swagger)
+- 4o bimestre
+  - projeto
 
 ## Tecnologias
 
