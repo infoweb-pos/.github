@@ -52,43 +52,44 @@
 | 2.18 | 13/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
 | 2.19 | 17/07/2026 | correção de avaliação |
 | 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final do bimestre |
-| 3.01 | //2026 | **3o bimestre**<br />a definir |
-| 3.02 | /0/2026 | a definir |
-| 3.03 | /0/2026 | a definir |
-| 3.04 | /0/2026 | a definir |
-| 3.05 | /0/2026 | a definir |
-| 3.06 | /0/2026 | a definir |
-| 3.07 | /0/2026 | a definir |
-| 3.08 | /0/2026 | a definir |
-| 3.09 | /0/2026 | a definir |
-| 3.10 | /0/2026 | a definir |
-| 3.11 | /0/2026 | a definir |
-| 3.12 | /0/2026 | a definir |
-| 3.13 | /0/2026 | a definir |
-| 3.14 | /0/2026 | a definir |
-| 3.15 | /0/2026 | a definir |
-| 3.16 | /0/2026 | a definir |
-| 3.17 | /0/2026 | a definir |
-| 3.18 | /0/2026 | a definir |
-| 3.19 | /0/2026 | a definir |
-| 3.20 | //2026 | _**fim do 3o bimestre**_<br />entrega do resultado do bimestre. |
-| 4.01 | //2026 | **4o bimestre**<br />a definir |
-| 4.02 | /0/2026 | a definir |
-| 4.03 | /0/2026 | a definir |
-| 4.04 | /0/2026 | a definir |
-| 4.05 | /0/2026 | a definir |
-| 4.06 | /0/2026 | a definir |
-| 4.07 | /0/2026 | a definir |
-| 4.08 | /0/2026 | a definir |
-| 4.09 | /0/2026 | a definir |
-| 4.10 | /0/2026 | a definir |
-| 4.11 | /0/2026 | a definir |
-| 4.12 | /0/2026 | a definir |
-| 4.13 | /0/2026 | a definir |
-| 4.14 | /0/2026 | a definir |
-| 4.15 | /0/2026 | a definir |
-| 4.16 | /0/2026 | a definir |
-| 4.17 | /0/2026 | a definir |
-| 4.18 | /0/2026 | a definir |
-| 4.19 | /0/2026 | a definir |
-| 4.20 | //2026 | _**fim do 4o bimestre**_<br />entrega do resultado do bimestre. |
+| 3.01 | 10/08/2026 | **3o bimestre**<br />a definir |
+| 3.02 | 14/08/2026 | a definir |
+| 3.03 | 17/08/2026 | a definir |
+| 3.04 | 21/08/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
+| 3.05 | 22/08/2026 | **sábado**<br />a definir |
+| 3.06 | 24/08/2026 | correção de avaliação |
+| 3.07 | 28/08/2026 | a definir |
+| 3.08 | 29/08/2026 | **sábado**<br />a definir |
+| 3.09 | 31/08/2026 | a definir |
+| 3.10 | 05/09/2026 | **sábado**<br />a definir |
+| 3.11 | 11/09/2026 | :pushpin: _avaliação_ :three:.:two: presencial |
+| 3.12 | 12/09/2026 | **sábado**<br />a definir |
+| 3.13 | 14/09/2026 | correção de avaliação |
+| 3.14 | 18/09/2026 | a definir |
+| 3.15 | 21/09/2026 | a definir |
+| 3.16 | 25/09/2026 | a definir |
+| 3.17 | 28/09/2026 | a definir |
+| 3.18 | 02/10/2026 | a definir |
+| 3.19 | 05/10/2026 | :pushpin: _avaliação_ :three:.:three: presencial |
+| 3.20 | 09/10/2026 | _**fim do 3o bimestre**_<br />correção de avaliação<br />entrega do resultado do bimestre. |
+| 4.01 | 16/10/2026 | **4o bimestre**<br />a definir |
+| 4.02 | 19/10/2026 | a definir |
+| 4.03 | 23/10/2026 | a definir |
+| 4.04 | 26/10/2026 | a definir |
+| 4.05 | 30/10/2026 | a definir |
+| 4.06 | 06/11/2026 | a definir |
+| 4.07 | 07/11/2026 | **sábado**<br />a definir |
+| 4.08 | 09/11/2026 | a definir |
+| 4.09 | 13/11/2026 | a definir |
+| 4.10 | 16/11/2026 | a definir |
+| 4.11 | 23/11/2026 | a definir |
+| 4.12 | 27/11/2026 | a definir |
+| 4.13 | 28/11/2026 | **sábado**<br />a definir |
+| 4.14 | 30/11/2026 | a definir |
+| 4.15 | 04/12/2026 | a definir |
+| 4.16 | 05/12/2026 | a definir |
+| 4.17 | 07/12/2026 | a definir |
+| 4.18 | 11/12/2026 | a definir |
+| 4.19 | 14/12/2026 | a definir |
+| 4.20 | 18/12/2026 | _**fim do 4o bimestre**_<br />entrega do resultado do bimestre. |
+| ---- | 21-23/12   | provas finais |
