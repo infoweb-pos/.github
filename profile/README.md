@@ -4,88 +4,91 @@
 
 - **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb (Técnico Integrado em Informática para Internet) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
-- **aulas**: segunda lab. 07 / sexta lab. 05
-
-
-## Atividades por bimestre
-- 1o bimestre
-  - A1 [React - Criando o primeiro projeto](https://github.com/infoweb-pos/2025-pos-01-react-criar-projeto/)
-  - A2 [React - Conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios/)
-  - A3 [React - Compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-03-react-compartilhando-dados-entre-componentes/)
-  - A4 [React - Acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios/)
-  - A5 [React + Tailwind - Spotify](https://github.com/infoweb-pos/2025-pos-05-react-tailwind/)
-  - A6 [React - usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/)
-- 2o bimestre
-  - A1 [React - Introdução a hook reducer](https://github.com/infoweb-pos/2025-2-pos-atividade-01-hook-reducer)
-- 3o bimestre
-  - A1 [React - revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao)
-  - A2 [API/Nest - Introdução](https://github.com/infoweb-pos/2025-3-atividades-02-api)
-  - A3 [API/Nest - Automatizando testes](https://github.com/infoweb-pos/2025-3-atividades-02-api)
-  - A4 [API/Nest - Documentando com código](https://github.com/infoweb-pos/2025-3-atividades-03-api-swagger)
-- 4o bimestre
-  - projeto
-
-## Tecnologias
-
-- [roadmap](https://roadmap.sh/)
-- javascript
-  - [node js](https://nodejs.org/)
-  - [npm](https://www.npmjs.com/)
-  - [typescript](https://www.typescriptlang.org/)
-- front-end
-  - [react](https://react.dev/)
-  - [next](https://nextjs.org/)
-  - [shadcn/ui](https://ui.shadcn.com/)
-  - [tailwind](https://tailwindcss.com/)
-- back-end
-  - [nestJS](https://nestjs.com/)
-- infraestrutura
-  - [vercel](https://vercel.com/)
-
+- **aulas**: segunda (2V12) lab. 05 / sexta (6V12) lab. 05
+- **período**: 2026
 
 
 ## Calendário
 
-| Data  | Nota |
-| ----- | ---- |
-| 07/04 | **1o bimestre**<br />Apresentação da disciplina. |
-| 10/04 | **atividade 01** [Criando o primeiro projeto react](https://github.com/infoweb-pos/2025-pos-01-react-criar-projeto) |
-| 14/04 | revisão da atividade anterior<br />[react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios) |
-| 17/04 | atividade 02 [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios) |
-| 24/04 | atividade 02 [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios) |
-| 26/04 | atividade 02 [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios) |
-| 28/04 | **atividade 02** [react - conceitos básicos](https://github.com/infoweb-pos/2025-pos-02-react-conceitos-introdutorios) |
-| 05/05 | atividade 03 [compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-03-react-compartilhando-dados-entre-componentes) |
-| 08/05 | exemplo de código [compartilhamento de dados entre componentes com props/state](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-props) |
-| 10/05 | exemplo de código [compartilhamento de dados entre componentes com props/state](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-props) |
-| 12/05 | **atividade 03** [compartilhamento de dados entre componentes](https://github.com/infoweb-pos/2025-pos-03-react-compartilhando-dados-entre-componentes) |
-| 15/05 | atividade 04 [acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios)<br />[exemplo de código](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios) |
-| 19/05 | **atividade 04** [acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios)<br />[exemplo de código](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios) |
-| 22/05 | **atividade 04** [acessando API e uso do `useEffect`](https://github.com/infoweb-pos/2025-pos-04-react-api-requisicao-axios)<br />[exemplo de código](https://github.com/infoweb-pos/2025-pos-exemplo-appweb-02-axios) |
-| 26/05 | prática profissional |
-| 29/05 | [compartilhamento de dados entre componentes com `context`](https://github.com/infoweb-pos/2025-pos-react-compartilhando-dados-entre-componentes-exemplo-context) |
-| 31/05 | **sábado/atividade 05**<br />[introdução a tailwind](https://github.com/infoweb-pos/2025-pos-05-react-tailwind) |
-| 02/06<br />05/06<br />09/06 | **atividade 06** [usando context, router e axios](https://github.com/infoweb-pos/2025-pos-06-react-compartilhando-dados-entre-componentes-context/blob/main/README.md)<br />**data de entrega de todas as atividades do 1o bimestre** sexta-feira 13 |
-| 12/06 | **2o bimestre**<br />último dia para atividade 06 |
-| 16/06 | [react reducer](https://github.com/infoweb-pos/2025-pos-exemplo-react-reducer/) |
-| 21/06<br />23/06<br />26/06 | **sábado**<br />**atividade 01**[React - Introdução a hook reducer](https://github.com/infoweb-pos/2025-2-pos-atividade-01-hook-reducer) |
-| 30/06 | em breve... |
-| 03/07 | em breve... |
-| 07/07 | em breve... |
-| 10/07 | em breve... |
-| 12/07 | **sábado**<br />atividade |
-| 14/07<br />17/07 | OBT 2025 |
-| 21/07 | em breve... |
-| 24/07 | em breve... |
-| 28/07 | [armazenamento de dados no navegador](https://github.com/infoweb-pos/react-dados_no_navegador) |
-| 31/07 | typescript |
-| 04/08<br />07/08 | [localStorage](https://github.com/infoweb-pos/react-dados_no_navegador-localStorage/) |
-| 09/08 | **sábado**<br />**atividade 02** em breve... |
-| 11/08 | [IndexedDB](https://github.com/infoweb-pos/react-dados_no_navegador-indexedDB/) |
-| -- | Recesso |
-| 11/09 | Sem aula |
-| 15/09<br />18/09 | **Atividade** de [revisão](https://github.com/infoweb-pos/2025-3-atividades-revisao) |
-| 22/09<br />25/09<br />29/09<br />02/10 | API Introdução [notas de aula](https://github.com/infoweb-pos/api-nest-notas-01-introducao) e [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api)<br />[:arrow_forward: parte 1 - criar novo projeto](https://youtu.be/rnx33u6sPl0)<br />[:arrow_forward: parte 2 e 3 - adicionar rota e crud](https://youtu.be/BCYdxqQlPL0) |
-| 02/10 | API testes automatizados [notas de aula](https://github.com/infoweb-pos/api-nest-notas-02-testes/)<br />continue a [atividade](https://github.com/infoweb-pos/2025-3-atividades-02-api) -lembre de _commits_ com título relativo a atividade<br />:arrow_forward: parte 4 - testes automatizados |
-| 06/10 | API Documetação com swagger [notas de aula](https://github.com/infoweb-pos/api-nest-notas-03-documentacao)<br />[atividade](https://github.com/infoweb-pos/2025-3-atividades-03-api-swagger)<br />:arrow_forward:parte 5 - documentação |
-| 13/10<br />16/10 | API Autenticação [notas de aula](https://github.com/infoweb-pos/api-nest-notas-04-autenticacao/) e atividade<br />:arrow_forward: autenticação |
+| #  | Data  | Nota |
+| -- | ----- | ---- |
+| 1.01 | /03/2026 | **1o bimestre**<br />Apresentação da disciplina. |
+| 1.02 | 16/03/2026 | a definir |
+| 1.03 | 20/03/2026 | a definir |
+| 1.04 | 21/03/2026 | **sábado**<br />a definir |
+| 1.05 | 23/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
+| 1.06 | 27/03/2026 | correção da avalição |
+| 1.07 | 30/03/2026 | a definir |
+| 1.08 | 06/04/2026 | a definir |
+| 1.09 | 10/04/2026 | a definir |
+| 1.10 | 13/04/2026 | a definir |
+| 1.11 | 17/04/2026 | a definir |
+| 1.12 | 18/04/2026 | **sábado**<br />a definir |
+| 1.13 | 24/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
+| 1.14 | 25/04/2026 | **sábado**<br />a definir |
+| 1.15 | 27/04/2026 | correção da avaliação |
+| 1.16 | 04/05/2026 | a definir |
+| 1.17 | 08/05/2026 | a definir |
+| 1.18 | 11/05/2026 | a definir |
+| 1.19 | 15/05/2026 | :pushpin: _avaliação_ :one:.:three: presencial |
+| 1.20 | 18/05/2026 | _**1o bimestre fim**_<br />correção da avaliação e<br />entrega do resultado final do bimestre |
+| 2.01 | 22/05/2026 | **2o bimestre**<br />a definir |
+| 2.02 | 25/05/2026 | a definir |
+| 2.03 | 29/05/2026 | a definir |
+| 2.04 | 30/05/2026 | **sábado**<br />a definir |
+| 2.05 | 01/06/2026 | a definir |
+| 2.06 | 06/06/2026 | **sábado**<br />a definir |
+| 2.07 | 08/06/2026 | a definir |
+| 2.08 | 12/06/2026 | a definir |
+| 2.09 | 15/06/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
+| 2.10 | 19/06/2026 | correção de avaliação |
+| 2.11 | 22/06/2026 | a definir |
+| 2.12 | 26/06/2026 | a definir |
+| 2.13 | 29/06/2026 | a definir |
+| 2.14 | 03/07/2026 | a definir |
+| 2.15 | 06/07/2026 | a definir |
+| 2.16 | 10/07/2026 | a definir |
+| 2.17 | 11/07/2026 | **sábado**<br />a definir |
+| 2.18 | 13/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
+| 2.19 | 17/07/2026 | correção de avaliação |
+| 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final do bimestre |
+| 3.01 | //2026 | **3o bimestre**<br />a definir |
+| 3.02 | /0/2026 | a definir |
+| 3.03 | /0/2026 | a definir |
+| 3.04 | /0/2026 | a definir |
+| 3.05 | /0/2026 | a definir |
+| 3.06 | /0/2026 | a definir |
+| 3.07 | /0/2026 | a definir |
+| 3.08 | /0/2026 | a definir |
+| 3.09 | /0/2026 | a definir |
+| 3.10 | /0/2026 | a definir |
+| 3.11 | /0/2026 | a definir |
+| 3.12 | /0/2026 | a definir |
+| 3.13 | /0/2026 | a definir |
+| 3.14 | /0/2026 | a definir |
+| 3.15 | /0/2026 | a definir |
+| 3.16 | /0/2026 | a definir |
+| 3.17 | /0/2026 | a definir |
+| 3.18 | /0/2026 | a definir |
+| 3.19 | /0/2026 | a definir |
+| 3.20 | //2026 | _**fim do 3o bimestre**_<br />entrega do resultado do bimestre. |
+| 4.01 | //2026 | **4o bimestre**<br />a definir |
+| 4.02 | /0/2026 | a definir |
+| 4.03 | /0/2026 | a definir |
+| 4.04 | /0/2026 | a definir |
+| 4.05 | /0/2026 | a definir |
+| 4.06 | /0/2026 | a definir |
+| 4.07 | /0/2026 | a definir |
+| 4.08 | /0/2026 | a definir |
+| 4.09 | /0/2026 | a definir |
+| 4.10 | /0/2026 | a definir |
+| 4.11 | /0/2026 | a definir |
+| 4.12 | /0/2026 | a definir |
+| 4.13 | /0/2026 | a definir |
+| 4.14 | /0/2026 | a definir |
+| 4.15 | /0/2026 | a definir |
+| 4.16 | /0/2026 | a definir |
+| 4.17 | /0/2026 | a definir |
+| 4.18 | /0/2026 | a definir |
+| 4.19 | /0/2026 | a definir |
+| 4.20 | //2026 | _**fim do 4o bimestre**_<br />entrega do resultado do bimestre. |
