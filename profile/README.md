@@ -1,8 +1,8 @@
-# Notas de aula de 2026
+# POS Notas de aula de 2026
 
 ## Informações gerais
 
-- **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb (Técnico Integrado em Informática para Internet) no CNAT-IFRN (Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte - Campus Natal-Central)
+- **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb da [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **aulas**: segunda (2V12) lab. 05 / sexta (6V12) lab. 05
 - **período**: 2026
@@ -12,8 +12,8 @@
 
 | #  | Data  | Nota |
 | -- | ----- | ---- |
-| 1.01 | /03/2026 | **1o bimestre**<br />Apresentação da disciplina. |
-| 1.02 | 16/03/2026 | a definir |
+| 1.01 | 13/03/2026 | **1o bimestre**<br />Apresentação da disciplina. |
+| 1.02 | 16/03/2026 | [React - Primeiro aplicativo e publicação](https://github.com/infoweb-pos/react-01-criar_aplicativo) |
 | 1.03 | 20/03/2026 | a definir |
 | 1.04 | 21/03/2026 | **sábado**<br />a definir |
 | 1.05 | 23/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
