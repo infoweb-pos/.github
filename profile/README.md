@@ -14,8 +14,8 @@
 | -- | ----- | ---- |
 | 1.01 | 13/03/2026 | **1o bimestre**<br />Apresentação da disciplina. |
 | 1.02 | 16/03/2026 | [React - Primeiro aplicativo e publicação](https://github.com/infoweb-pos/react-01-criar_aplicativo) |
-| 1.03 | 20/03/2026 | a definir |
-| 1.04 | 21/03/2026 | **sábado**<br />a definir |
+| 1.03 | 20/03/2026 | React [conceitos básicos: jsx e props](https://github.com/infoweb-pos/react-02-conceitos-basicos-01) |
+| 1.04 | 21/03/2026 | **sábado**<br />fixme |
 | 1.05 | 23/03/2026 | :pushpin: _avaliação_ :one:.:one: presencial |
 | 1.06 | 27/03/2026 | correção da avalição |
 | 1.07 | 30/03/2026 | a definir |
