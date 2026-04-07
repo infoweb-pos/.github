@@ -18,9 +18,10 @@
 | 1.04 | 21/03/2026 | **sábado**<br />[conceitos básicos: state, e eventos](https://github.com/infoweb-pos/react-03-conceitos-basicos-02) |
 | 1.05 | 23/03/2026 | :pushpin: [avaliação :one:.:one: presencial](https://github.com/infoweb-pos/2026-1-1-Atividade-React-Conceitos)<br />[conceitos básicos: consumindo api](https://github.com/infoweb-pos/react-05-conceitos-basicos-04) |
 | 1.06 | 27/03/2026 | correção da avalição |
-| 1.07 | 30/03/2026 | React [conceitos básicos: ?](https://github.com/infoweb-pos/react-06-conceitos-basicos-05) |
-| 1.08 | 06/04/2026 | a definir |
-| 1.09 | 10/04/2026 | a definir |
+| 1.07 | 30/03/2026 | React [conceitos básicos: renderização condicional e listas](https://github.com/infoweb-pos/react-06-conceitos-basicos-05) |
+| 1.08 | 06/04/2026 | palestra com [Victor](https://github.com/V-Matheus/) sobre dev com IA profissionalmente |
+| 1.?? | 07/04/2026 | Lab 01 React conceitos básicos |
+| 1.09 | 10/04/2026 | [shadcnui - introdução](https://github.com/infoweb-pos/shadcnui-01-introducao) |
 | 1.10 | 13/04/2026 | a definir |
 | 1.11 | 17/04/2026 | a definir |
 | 1.12 | 18/04/2026 | **sábado**<br />a definir |
