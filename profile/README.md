@@ -22,7 +22,7 @@
 | 1.08 | 06/04/2026 | palestra com [Victor](https://github.com/V-Matheus/) sobre dev com IA profissionalmente |
 | 1.?? | 07/04/2026 | [shadcnui - introdução](https://github.com/infoweb-pos/shadcnui-01-introducao) |
 | 1.09 | 10/04/2026 | React conceitos básicos: modificando valor de estado |
-| 1.10 | 13/04/2026 | a definir |
+| 1.10 | 13/04/2026 | [atividade](https://github.com/infoweb-pos/2026-1-2-Atividade-CRUD-Update) |
 | 1.11 | 17/04/2026 | a definir |
 | 1.12 | 18/04/2026 | **sábado**<br />a definir |
 | 1.13 | 24/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
