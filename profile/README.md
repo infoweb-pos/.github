@@ -27,7 +27,7 @@
 | 1.12 | 18/04/2026 | **sábado**<br />a definir |
 | 1.13 | 24/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
 | 1.14 | 25/04/2026 | **sábado**<br />a definir |
-| 1.15 | 27/04/2026 | correção da avaliação |
+| 1.15 | 27/04/2026 | [estado: state, context, ref, memo, hook form](https://github.com/infoweb-pos/react-07-conceitos-estado/) |
 | 1.16 | 04/05/2026 | a definir |
 | 1.17 | 08/05/2026 | a definir |
 | 1.18 | 11/05/2026 | a definir |
