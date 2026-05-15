@@ -6,7 +6,10 @@
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **aulas**: segunda (2V12) lab. 05 / sexta (6V12) lab. 05
 - **período**: 2026
-
+- **conteúdo**:
+  - [frontend react/next](https://github.com/infoweb-pos/react-sumario/)
+  - backend com nest
+  - frontend mobile
 
 ## Calendário
 
