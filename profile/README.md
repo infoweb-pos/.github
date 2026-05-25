@@ -30,14 +30,14 @@
 | 1.12 | 18/04/2026 | **sábado**<br />a definir |
 | 1.13 | 24/04/2026 | :pushpin: _avaliação_ :one:.:two: presencial |
 | 1.14 | 25/04/2026 | **sábado**<br />a definir |
-| 1.15 | 27/04/2026 | [estado: state, context, ref, memo, hook form](https://github.com/infoweb-pos/react-07-conceitos-estado/) |
-| 1.16 | 04/05/2026 | a definir |
-| 1.17 | 08/05/2026 | a definir |
-| 1.18 | 11/05/2026 | a definir |
-| 1.19 | 15/05/2026 | :pushpin: _avaliação_ :one:.:three: presencial |
-| 1.20 | 18/05/2026 | _**1o bimestre fim**_<br />correção da avaliação e<br />entrega do resultado final do bimestre |
-| 2.01 | 22/05/2026 | **2o bimestre**<br />a definir |
-| 2.02 | 25/05/2026 | a definir |
+| 1.15 | 27/04/2026 | [estado: state, context, ref, memo](https://github.com/infoweb-pos/react-07-conceitos-estado/) |
+| 1.16 | 04/05/2026 | --- |
+| 1.17 | 08/05/2026 | --- |
+| 1.18 | 11/05/2026 | --- |
+| 1.19 | 15/05/2026 | Estado |
+| 1.20 | 18/05/2026 | _**1o bimestre fim**_<br />Estado |
+| 2.01 | 22/05/2026 | **2o bimestre**<br />--- |
+| 2.02 | 25/05/2026 | Estado |
 | 2.03 | 29/05/2026 | a definir |
 | 2.04 | 30/05/2026 | **sábado**<br />a definir |
 | 2.05 | 01/06/2026 | a definir |
