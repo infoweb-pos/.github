@@ -38,14 +38,14 @@
 | 1.20 | 18/05/2026 | _**1o bimestre fim**_<br />Estado |
 | 2.01 | 22/05/2026 | **2o bimestre**<br />--- |
 | 2.02 | 25/05/2026 | Estado |
-| 2.03 | 29/05/2026 | a definir |
+| 2.03 | 29/05/2026 | Estado |
 | 2.04 | 30/05/2026 | **sábado**<br />a definir |
 | 2.05 | 01/06/2026 | a definir |
 | 2.06 | 06/06/2026 | **sábado**<br />a definir |
 | 2.07 | 08/06/2026 | a definir |
 | 2.08 | 12/06/2026 | a definir |
-| 2.09 | 15/06/2026 | :pushpin: _avaliação_ :two:.:one: presencial |
-| 2.10 | 19/06/2026 | correção de avaliação |
+| 2.09 | 15/06/2026 | [Formulários com useForm](https://github.com/infoweb-pos/react-07-conceitos-estado/blob/main/use-form.md) |
+| 2.10 | 19/06/2026 | [Autenticação e autorização](https://github.com/infoweb-pos/react-08-autenticacao) |
 | 2.11 | 22/06/2026 | a definir |
 | 2.12 | 26/06/2026 | a definir |
 | 2.13 | 29/06/2026 | a definir |
