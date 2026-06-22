@@ -46,7 +46,7 @@
 | 2.08 | 12/06/2026 | a definir |
 | 2.09 | 15/06/2026 | [Formulários com useForm](https://github.com/infoweb-pos/react-07-conceitos-estado/blob/main/use-form.md) |
 | 2.10 | 19/06/2026 | [Autenticação e autorização](https://github.com/infoweb-pos/react-08-autenticacao) |
-| 2.11 | 22/06/2026 | a definir |
+| 2.11 | 22/06/2026 | :pushpin: _avaliação_ :two:.:one: [frontend](https://github.com/infoweb-pos/2026-2-1-Atividade-Frontend/) |
 | 2.12 | 26/06/2026 | a definir |
 | 2.13 | 29/06/2026 | a definir |
 | 2.14 | 03/07/2026 | a definir |
