@@ -47,14 +47,14 @@
 | 2.09 | 15/06/2026 | [Formulários com useForm](https://github.com/infoweb-pos/react-07-conceitos-estado/blob/main/use-form.md) |
 | 2.10 | 19/06/2026 | [Autenticação e autorização](https://github.com/infoweb-pos/react-08-autenticacao) |
 | 2.11 | 22/06/2026 | :pushpin: _avaliação_ :two:.:one: [frontend](https://github.com/infoweb-pos/2026-2-1-Atividade-Frontend/) |
-| 2.12 | 26/06/2026 | a definir |
-| 2.13 | 29/06/2026 | a definir |
-| 2.14 | 03/07/2026 | a definir |
-| 2.15 | 06/07/2026 | a definir |
-| 2.16 | 10/07/2026 | a definir |
+| 2.12 | 26/06/2026 | prática da avaliação |
+| 2.13 | 29/06/2026 | apresentação de trabalhos |
+| 2.14 | 03/07/2026 | apresentação de trabalhos |
+| 2.15 | 06/07/2026 | wtec |
+| 2.16 | 10/07/2026 | [introdção a api com ia](https://github.com/infoweb-pos/2026-api-introducao) |
 | 2.17 | 11/07/2026 | **sábado**<br />a definir |
-| 2.18 | 13/07/2026 | :pushpin: _avaliação_ :two:.:two: presencial |
-| 2.19 | 17/07/2026 | correção de avaliação |
+| 2.18 | 13/07/2026 | projeto |
+| 2.19 | 17/07/2026 | apresentação do projeto |
 | 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final do bimestre |
 | 3.01 | 10/08/2026 | **3o bimestre**<br />a definir |
 | 3.02 | 14/08/2026 | a definir |
