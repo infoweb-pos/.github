@@ -51,11 +51,11 @@
 | 2.13 | 29/06/2026 | apresentação de trabalhos |
 | 2.14 | 03/07/2026 | apresentação de trabalhos |
 | 2.15 | 06/07/2026 | wtec |
-| 2.16 | 10/07/2026 | [introdção a api com ia](https://github.com/infoweb-pos/2026-api-introducao) |
+| 2.16 | 10/07/2026 | [introdução a api com ia](https://github.com/infoweb-pos/2026-api-introducao) |
 | 2.17 | 11/07/2026 | **sábado**<br />a definir |
 | 2.18 | 13/07/2026 | projeto |
-| 2.19 | 17/07/2026 | apresentação do projeto |
-| 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />entrega do resultado final do bimestre |
+| 2.19 | 17/07/2026 | projeto |
+| 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />apresentação do projeto |
 | 3.01 | 10/08/2026 | **3o bimestre**<br />a definir |
 | 3.02 | 14/08/2026 | a definir |
 | 3.03 | 17/08/2026 | a definir |
