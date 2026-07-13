@@ -8,7 +8,7 @@
 - **período**: 2026
 - **conteúdo**:
   - [frontend react/next](https://github.com/infoweb-pos/react-sumario/)
-  - backend com nest
+  - [backend com nest](https://github.com/infoweb-pos/nest-sumario/)
   - frontend mobile
 
 ## Calendário
