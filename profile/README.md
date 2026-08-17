@@ -58,7 +58,7 @@
 | 2.20 | 20/07/2026 | _**2o bimestre fim**_<br />apresentação do projeto |
 | 3.01 | 10/08/2026 | **3o bimestre**<br />bem vindos ao último semestre |
 | 3.02 | 14/08/2026 | [API Autenticação](https://github.com/infoweb-pos/api-nest-notas-04-autenticacao) |
-| 3.03 | 17/08/2026 | a definir |
+| 3.03 | 17/08/2026 | [API Documentação](https://github.com/infoweb-pos/api-nest-notas-03-documentacao) |
 | 3.04 | 21/08/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
 | 3.05 | 22/08/2026 | **sábado**<br />a definir |
 | 3.06 | 24/08/2026 | correção de avaliação |
