@@ -59,12 +59,12 @@
 | 3.01 | 10/08/2026 | **3o bimestre**<br />bem vindos ao último semestre |
 | 3.02 | 14/08/2026 | [API Autenticação](https://github.com/infoweb-pos/api-nest-notas-04-autenticacao) |
 | 3.03 | 17/08/2026 | [API Documentação](https://github.com/infoweb-pos/api-nest-notas-03-documentacao) |
-| 3.04 | 21/08/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
+| 3.04 | 21/08/2026 |  |
 | 3.05 | 22/08/2026 | **sábado**<br />a definir |
-| 3.06 | 24/08/2026 | correção de avaliação |
-| 3.07 | 28/08/2026 | a definir |
+| 3.06 | 24/08/2026 | [API Nestjs - testes](https://github.com/infoweb-pos/api-nest-notas-02-testes) |
+| 3.07 | 28/08/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
 | 3.08 | 29/08/2026 | **sábado**<br />a definir |
-| 3.09 | 31/08/2026 | a definir |
+| 3.09 | 31/08/2026 | correção de avaliação |
 | 3.10 | 05/09/2026 | **sábado**<br />a definir |
 | 3.11 | 11/09/2026 | :pushpin: _avaliação_ :three:.:two: presencial |
 | 3.12 | 12/09/2026 | **sábado**<br />a definir |
