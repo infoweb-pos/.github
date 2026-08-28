@@ -4,7 +4,7 @@
 
 - **Público alvo**: alunos da disciplina de POS (Programação Orientada a Serviços) do curso de Infoweb da [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
-- **aulas**: segunda (2V12) lab. 05 / sexta (6V12) lab. 05
+- **aulas**: segunda (2V12) lab. 07 / sexta (6V12) lab. 07
 - **período**: 2026
 - **conteúdo**:
   - [frontend react/next](https://github.com/infoweb-pos/react-sumario/)
@@ -62,13 +62,13 @@
 | 3.04 | 21/08/2026 |  |
 | 3.05 | 22/08/2026 | **sábado**<br />a definir |
 | 3.06 | 24/08/2026 | [API Nestjs - testes](https://github.com/infoweb-pos/api-nest-notas-02-testes) |
-| 3.07 | 28/08/2026 | :pushpin: _avaliação_ :three:.:one: presencial |
-| 3.08 | 29/08/2026 | **sábado**<br />a definir |
-| 3.09 | 31/08/2026 | correção de avaliação |
-| 3.10 | 05/09/2026 | **sábado**<br />a definir |
-| 3.11 | 11/09/2026 | :pushpin: _avaliação_ :three:.:two: presencial |
+| 3.07 | 28/08/2026 | :pushpin: [_avaliação_ :three:.:one: presencial](https://github.com/infoweb-pos/2026-3-1-atividade-fullstack) |
+| 3.08 | 29/08/2026 | **sábado**<br />avaliação |
+| 3.09 | 31/08/2026 | avaliação |
+| 3.10 | 05/09/2026 | **sábado**<br />avaliação |
+| 3.11 | 11/09/2026 | apresentação das avaliações |
 | 3.12 | 12/09/2026 | **sábado**<br />a definir |
-| 3.13 | 14/09/2026 | correção de avaliação |
+| 3.13 | 14/09/2026 | a definir |
 | 3.14 | 18/09/2026 | a definir |
 | 3.15 | 21/09/2026 | a definir |
 | 3.16 | 25/09/2026 | a definir |
